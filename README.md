@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/syuneghazaryan/Project1/_apis/build/status/thehouseofrisingsun.my-app?branchName=master)](https://dev.azure.com/syuneghazaryan/Project1/_build/latest?definitionId=1&branchName=master)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
