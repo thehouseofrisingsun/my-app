@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'syune-web-app'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_40391F680E6C4386AB199058B7A4DC31 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_11585799DAF946B1803A51094112C20B }}
           package: .
